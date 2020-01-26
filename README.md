@@ -3,7 +3,7 @@
 ### App Description
 `This app allows you to insert text, change the text color and change the view's background color. 
 
-### App Walk-though
+### App Walk-through
 <img src="http://g.recordit.co/gxQgnddh8j.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
